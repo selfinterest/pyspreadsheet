@@ -1,3 +1,6 @@
+Forked PySpreadsheet (hope that's okay, extrabacon!) in order to make it more compatible with the way I use streams
+in my own projects, e.g. piping.
+
 # PySpreadsheet
 
 A high-performance spreadsheet library for Node, powered by Python open source libraries. PySpreadsheet can be used
